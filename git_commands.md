@@ -1,5 +1,5 @@
-git init (Initializing git)
-" git add <File_Path> " or " git add . "(To include all files)
+#git init (Initializing git)
+#" git add <File_Path> " or " git add . "(To include all files)
 git diff (To check changes)
 
 
